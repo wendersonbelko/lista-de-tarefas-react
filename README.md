@@ -8,4 +8,4 @@
 
 # Descrição.
 
-Todo conhecimento adquirido foi atráves de cursos livres na plataforma da udemy. Estou estudando sobre react para aprimorar meu aprendizado na trybe e ter uma maior noção sobre o assunto.
+Todo conhecimento foi adquirido através de cursos livres na plataforma da udemy. Estou estudando sobre react para aprimorar meu aprendizado na trybe e ter uma maior noção sobre o assunto.
