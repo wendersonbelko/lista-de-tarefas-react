@@ -7,6 +7,12 @@
 2. Ao abrir o terminal, digite # yarn start ou npm start
 3. acesse no navegador localhost:3000
 
+> # bibliotecas usadas:
+
+- [ ] ESlint
+- [ ] prop-types
+- [ ] React-icons
+
 > # Descrição:
 
 Todo conhecimento foi adquirido através de cursos livres na plataforma da udemy. Estou estudando sobre react para aprimorar meu aprendizado na trybe e ter uma maior noção sobre o assunto.
