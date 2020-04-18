@@ -4,7 +4,7 @@
 > # Como usar:
 
 1. git clone https://github.com/wendersonbelko/lista-de-tarefas-react.git
-2. Ao abrir o terminal, digite # yarn start ou npm start
+2. Ao abrir o terminal, digite  **yarn start** ou **npm start**
 3. acesse no navegador localhost:3000
 
 > # Bibliotecas usadas:
