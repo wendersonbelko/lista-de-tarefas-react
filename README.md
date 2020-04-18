@@ -7,7 +7,7 @@
 2. Ao abrir o terminal, digite # yarn start ou npm start
 3. acesse no navegador localhost:3000
 
-> # bibliotecas usadas:
+> # Bibliotecas usadas:
 
 - [ ] ESlint
 - [ ] prop-types
