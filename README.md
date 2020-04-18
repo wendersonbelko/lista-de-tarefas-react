@@ -1,4 +1,5 @@
 # Lista de tarefas usando React
+![Capturar](https://user-images.githubusercontent.com/57719936/79644993-d48d8f00-8182-11ea-8f92-ae1f251fdaf0.PNG)
 
 # Como usar:
 
