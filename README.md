@@ -4,8 +4,9 @@
 > # Como usar:
 
 1. git clone https://github.com/wendersonbelko/lista-de-tarefas-react.git
-2. Ao abrir o terminal, digite  **yarn start** ou **npm start**
-3. acesse no navegador localhost:3000
+2. use **npm install** ou **yarn install** para baixar as dependências
+3. Ao abrir o terminal, digite  **yarn start** ou **npm start**
+4. acesse no navegador localhost:3000
 
 > # Bibliotecas usadas:
 
